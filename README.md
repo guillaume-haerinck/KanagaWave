@@ -8,7 +8,7 @@ Un jeu local multijoueur où votre but est de submerger l'ile adverse. Pour cela
 ## Construit avec
 * [Unity](https://unity3d.com/fr) - Moteur de jeu
 
-## Autheurs
+## Auteurs
 
 * **Guillaume Haerinck** - Artiste et Animateur - [Portfolio](http://guillaumehaerinck.com/)
 * **Samy Badache** - Développeur C#
